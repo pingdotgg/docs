@@ -28,12 +28,8 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={`${siteConfig.title}`}
-      description="Get set up in OBS and your Ping.gg room!"
-    >
+    <Layout description="Get set up in OBS and your Ping.gg room!">
       <HomepageHeader />
       <main>{/* <HomepageFeatures /> */}</main>
     </Layout>
