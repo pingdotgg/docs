@@ -22,13 +22,23 @@ Ping is compatible with _any video software that can treat a website URL as a "s
 
 While all of these solutions work, we **highly recommend that you use [OBS](https://obsproject.com/)**.
 
+:::warning
+
+Everything from here down is unfinished
+:::
+
 ### Browser Sources
 
-o;uahwr;uahwer;ouawher; fill this out more later (with pictures ideally)
+fill this out more later (with pictures ideally)
 
 - Create browser source in OBS
   - 1920x1080
   - Enable audio controls
+
+:::tip
+
+We highly recommend using **[nested scenes as sources](/advanced-obs/scene-as-source)**
+:::
 
 ## Ping.gg Room Setup
 
