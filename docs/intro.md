@@ -22,22 +22,38 @@ Ping is compatible with _any video software that can treat a website URL as a "s
 
 While all of these solutions work, we **highly recommend that you use [OBS](https://obsproject.com/)**.
 
-:::warning
-
-Everything from here down is unfinished
-:::
-
-### Browser Sources
-
-fill this out more later (with pictures ideally)
-
-- Create browser source in OBS
-  - 1920x1080
-  - Enable audio controls
+## Browser Sources
 
 :::tip
 
-We highly recommend using **[nested scenes as sources](/advanced-obs/scene-as-source)**
+We highly recommend using **[nested scenes for your Ping browser sources](/advanced-obs/scene-as-source)**
+:::
+
+To get Ping into OBS, first create a [Browser Source](https://obsproject.com/eu/kb/browser-source) (+ button in "sources" -> "Browser").
+
+Once you have the browser source customizer window open, you have to change **THREE THINGS**.
+
+### 1. Add the Embed URL
+
+The URL used here is an embed URL from your Ping room. These URLs are static and don't need to be changed after a call ends
+
+![url in browser source](./img/browser-sources/browser-source-1.png)
+
+### 2. Change the resolution to 1920x1080
+
+Even if your guest is using a different resolution, we recommend using 1920 width and 1080 height here to guarantee the simplest scaling and resizing at a 16:9 aspect ration
+
+![resolution in browser source](./img/browser-sources/browser-source-2.png)
+
+### 3. Enable audio control in OBS
+
+In order to have control of the audio from your browser source, you _**have to enable this checkbox**_
+
+![audio controls in browser source](./img/browser-sources/browser-source-3.png)
+
+:::warning
+
+Everything from here down is _very_ unfinished
 :::
 
 ## Ping.gg Room Setup
