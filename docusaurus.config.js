@@ -63,7 +63,8 @@ const config = {
             position: "left",
             label: "Docs",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          // TODO: Blog?
+          // { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://twitter.com/pingdotgg",
             label: "Twitter",
