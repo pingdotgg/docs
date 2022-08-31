@@ -4,44 +4,47 @@ sidebar_position: 1
 
 # Getting Started
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Ping.gg is the best way to make collab video. Live on Twitch, recorded for Youtube, produced for television, and everything in between.
 
-## Getting Started
+If you prefer videos, Theo and Adam filmed one below to help you get started quick! Otherwise you can follow along below
 
-Get started by **creating a new site**.
+<div style={{ width: "100%", display: "flex", justifyContent: "center" }}><iframe width="560" height="315" src="https://www.youtube.com/embed/inSIW-m2Oq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Streaming Software Setup
 
-### What you'll need
+Ping is compatible with _any video software that can treat a website URL as a "source"_ (i.e. a [_browser source_](https://obsproject.com/eu/kb/browser-source)). This includes:
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [OBS Studio (Open Broadcaster Software Studio)](https://obsproject.com/)
+- [Streamlabs Desktop](https://streamlabs.com/)
+- [XSplit](https://www.xsplit.com/)
+- [Twitch Studio](https://www.twitch.tv/broadcast/studio)
 
-## Generate a new site
+While all of these solutions work, we **highly recommend that you use [OBS](https://obsproject.com/)**.
 
-Generate a new Docusaurus site using the **classic template**.
+### Browser Sources
 
-The classic template will automatically be added to your project after you run the command:
+o;uahwr;uahwer;ouawher; fill this out more later (with pictures ideally)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- Create browser source in OBS
+  - 1920x1080
+  - Enable audio controls
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Ping.gg Room Setup
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### Create your room
 
-## Start your site
+- What is a room slug
+- "URL you share"
 
-Run the development server:
+### Invite a guest
 
-```bash
-cd my-website
-npm run start
-```
+- How guests join
+  - Permissions (member vs guest)
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+### Add them to a slot
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+- Slot info
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Now Go Live!
+
+That's it! If this was helpful in getting started, please [shout us out on Twitter](https://twitter.com/pingdotgg) - also don't hesitate to [join our Discord](https://discord.gg/pinglabs) if you have any questions or want to chat with us.
