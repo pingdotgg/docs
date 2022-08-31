@@ -1,10 +1,11 @@
 ---
+label: "Solo Tier"
 sidebar_position: 2
 ---
 
-# Ping.gg Solo Tier
+# Solo Tier
 
-The solo tier on Ping is focused on getting **YOUR** video **OUT** to another OBS user. Great if you're a guest and want to be sure your video comes through crystal clear on the other side.
+The solo tier on Ping.gg is focused on getting **YOUR** video **OUT** to another OBS user. Great if you're a guest and want to be sure your video comes through crystal clear on the other side.
 
 Watch Adam's video about Ping's Solo Tier
 
