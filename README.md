@@ -8,5 +8,6 @@
 
 ## TODO
 
-- [ ] Merge homepage and /docs
+- [x] Merge homepage and /docs
 - [ ] Find some way for Adam to easily edit this
+- [ ] Set up analytics
