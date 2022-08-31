@@ -54,6 +54,7 @@ const config = {
         logo: {
           alt: "Ping.gg Logo",
           src: "img/logo.svg",
+          href: "https://ping.gg",
         },
         items: [
           {
