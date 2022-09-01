@@ -11,46 +11,6 @@ If you prefer videos, Theo and Adam filmed one below to help you get started qui
 
 <div style={{ width: "100%", display: "flex", justifyContent: "center" }}><iframe width="560" height="315" src="https://www.youtube.com/embed/inSIW-m2Oq0" title="Ping.gg Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe></div>
 
-## Streaming Software Setup
-
-Ping is compatible with _any video software that can treat a website URL as a "source"_ (i.e. a [_browser source_](https://obsproject.com/eu/kb/browser-source)). This includes:
-
-- [OBS Studio (Open Broadcaster Software Studio)](https://obsproject.com/)
-- [Streamlabs Desktop](https://streamlabs.com/)
-- [XSplit](https://www.xsplit.com/)
-- [Twitch Studio](https://www.twitch.tv/broadcast/studio)
-
-While all of these solutions work, we **highly recommend that you use [OBS](https://obsproject.com/)**.
-
-## Browser Sources
-
-:::tip
-
-We highly recommend using **[nested scenes for your Ping browser sources](/advanced-obs/scene-as-source)**
-:::
-
-To get Ping into OBS, first create a [Browser Source](https://obsproject.com/eu/kb/browser-source) (+ button in "sources" -> "Browser").
-
-Once you have the browser source customizer window open, you have to change **THREE THINGS**.
-
-### 1. Add the Embed URL
-
-The URL used here is an embed URL from your Ping room. These URLs are static and don't need to be changed after a call ends
-
-![url in browser source](./img/browser-sources/browser-source-1.png)
-
-### 2. Change the resolution to 1920x1080
-
-Even if your guest is using a different resolution, we recommend using 1920 width and 1080 height here to guarantee the simplest scaling and resizing at a 16:9 aspect ration
-
-![resolution in browser source](./img/browser-sources/browser-source-2.png)
-
-### 3. Enable audio control in OBS
-
-In order to have control of the audio from your browser source, you _**have to enable this checkbox**_
-
-![audio controls in browser source](./img/browser-sources/browser-source-3.png)
-
 ## Ping.gg Room Setup
 
 ### Create your room
@@ -81,7 +41,47 @@ When the guest clicks "Request To Join", you will see their request inside of th
 
 When you hover over a video preview in the call, a menu button will appear. Click it and you will have the option to "copy embed link".
 
-This link should be used in the browser source you made earlier. Once you paste that URL into your browser source, you're good to go!
+This link should be used in the browser source you made earlier. Once you paste that URL into your browser source, it's time to set up your streaming software!
+
+## Streaming Software Setup
+
+Ping is compatible with _any video software that can treat a website URL as a "source"_ (i.e. a [_browser source_](https://obsproject.com/eu/kb/browser-source)). This includes:
+
+- [OBS Studio (Open Broadcaster Software Studio)](https://obsproject.com/)
+- [Streamlabs Desktop](https://streamlabs.com/)
+- [XSplit](https://www.xsplit.com/)
+- [Twitch Studio](https://www.twitch.tv/broadcast/studio)
+
+While all of these solutions work, we **highly recommend that you use [OBS](https://obsproject.com/)**.
+
+## Browser Sources
+
+:::tip
+
+Using **[nested scenes for your Ping browser sources](/advanced-obs/scene-as-source)** can make things much simpler with complex setups
+:::
+
+To get Ping into OBS, first create a [Browser Source](https://obsproject.com/eu/kb/browser-source) (+ button in "sources" -> "Browser").
+
+Once you have the browser source customizer window open, you have to change **THREE THINGS**.
+
+### 1. Add the Embed URL
+
+Paste the embed URL from a guest as shown above. These URLs are static and don't need to be changed after a call ends
+
+![url in browser source](./img/browser-sources/browser-source-1.png)
+
+### 2. Change the resolution to 1920x1080
+
+Even if your guest is using a different resolution, we recommend using 1920 width and 1080 height here to guarantee the simplest scaling and resizing at a 16:9 aspect ration
+
+![resolution in browser source](./img/browser-sources/browser-source-2.png)
+
+### 3. Enable audio control in OBS
+
+In order to have control of the audio from your browser source, you _**have to enable this checkbox**_
+
+![audio controls in browser source](./img/browser-sources/browser-source-3.png)
 
 ## Now Go Live!
 
