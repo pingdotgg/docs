@@ -64,6 +64,7 @@ const config = {
           src: "img/logo.svg",
           href: "https://ping.gg",
           width: "32",
+          target: "_self",
         },
         items: [
           {
