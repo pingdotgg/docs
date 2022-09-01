@@ -9,7 +9,7 @@ Ping.gg is the best way to make collab video. Live on Twitch, recorded for Youtu
 
 If you prefer videos, Theo and Adam filmed one below to help you get started quick! Otherwise you can follow along below
 
-<div style={{ width: "100%", display: "flex", justifyContent: "center" }}><iframe width="560" height="315" src="https://www.youtube.com/embed/rbVQNdYHmEs" title="Ping.gg Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style={{ width: "100%", display: "flex", justifyContent: "center" }}><iframe width="560" height="315" src="https://www.youtube.com/embed/rbVQNdYHmEs" title="Ping.gg Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe></div>
 
 ## Streaming Software Setup
 
