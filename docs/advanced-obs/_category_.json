@@ -1,7 +1,6 @@
 {
   "label": "Advanced OBS Tips",
   "position": 4,
-  "link": {
-    "type": "generated-index"
-  }
+  "link": null,
+  "collapsible": false
 }
