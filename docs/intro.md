@@ -41,7 +41,7 @@ When the guest clicks "Request To Join", you will see their request inside of th
 
 When you hover over a video preview in the call, a menu button will appear. Click it and you will have the option to "copy embed link".
 
-This link should be used in the browser source you made earlier. Once you paste that URL into your browser source, it's time to set up your streaming software!
+This link should be used in a browser source in your streaming software of choice - more below!
 
 ## Streaming Software Setup
 
