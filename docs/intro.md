@@ -51,26 +51,37 @@ In order to have control of the audio from your browser source, you _**have to e
 
 ![audio controls in browser source](./img/browser-sources/browser-source-3.png)
 
-:::warning
-
-Everything from here down is _very_ unfinished
-:::
-
 ## Ping.gg Room Setup
 
 ### Create your room
 
-- What is a room slug
-- "URL you share"
+To get started, [sign up for your trial on Ping](https://ping.gg/pricing)
+
+The URL you choose during setup is the URL you'll be sending to guests to join your call - will look like:
+
+```
+https://ping.gg/call/demo
+```
+
+...where `demo` would be replaced with the slug you pick during sign-up.
 
 ### Invite a guest
 
-- How guests join
-  - Permissions (member vs guest)
+Send the URL you created above to a guest for them to request to join. Whenever a guest tries to join, they will go through three steps:
 
-### Add them to a slot
+1. Sign in with Twitch, Twitter or Google.
+2. Select camera and microphone devices
+3. Click "Request To Join"
 
-- Slot info
+When the guest clicks "Request To Join", you will see their request inside of the call in the top right. When you "accept" them, they will join the call
+
+### Copy Embed link
+
+![copy embed link](./img/guest-flow/copy-embed.png)
+
+When you hover over a video preview in the call, a menu button will appear. Click it and you will have the option to "copy embed link".
+
+This link should be used in the browser source you made earlier. Once you paste that URL into your browser source, you're good to go!
 
 ## Now Go Live!
 
