@@ -25,6 +25,24 @@ https://ping.gg/call/demo
 
 ...where `demo` would be replaced with the slug you pick during sign-up.
 
+### Join Your Room
+
+Use the link you made above (or the join button on [ping.gg/dashboard](https://ping.gg/dashboard)) to enter the call waitroom.
+
+From here, you can select your
+
+- Camera Device
+- Camera Resolution & Frame Rate
+- Microphone Device
+- Speaker/Output Device (Only available in waitroom)
+
+:::tip
+
+Having issues with your camera in Ping?
+
+Using an [**OBS Virtual Camera**](/advanced-obs/virtual-cam) as your video camera device can fix many, including the **Multi-Program Windows Camera Problem™️**
+:::
+
 ### Invite a guest
 
 Send the URL you created above to a guest for them to request to join. Whenever a guest tries to join, they will go through three steps:
