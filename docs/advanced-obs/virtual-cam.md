@@ -1,4 +1,4 @@
-# OBS Virtual Camera Pro Tips
+# OBS Virtual Camera
 
 OBS's built in Virtual Camera is a super powerful feature. OBS version 26 introduced Virtual Cam as a built-in feature. OBS version 28 overhauled the control you have with it.
 
