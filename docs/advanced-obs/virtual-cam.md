@@ -33,7 +33,7 @@ By default, OBS Virtual Cam sends out your _main feed_. As of version 28, you ca
 
 :::tip
 
-If you make a separate, full-screen camera scene and [use it as a **scene source**](/advanced-obs/scene-as-source), you can set that scene as a virtual cam! (trust us this makes things so much simpler)
+If you make a separate, full-screen camera scene and [use it as a **scene source**](/advanced-obs/nesting-scenes), you can set that scene as a virtual cam! (trust us this makes things so much simpler)
 :::
 
 1. Click the Settings cog next to the "Start Virtual Cam" button

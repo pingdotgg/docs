@@ -76,7 +76,7 @@ While all of these solutions work, we **highly recommend that you use [OBS](http
 
 :::tip
 
-Using **[nested scenes for your Ping browser sources](/advanced-obs/scene-as-source)** can make things much simpler with complex setups
+Using **[nested scenes for your Ping browser sources](/advanced-obs/nesting-scenes)** can make things much simpler with complex setups
 :::
 
 To get Ping into OBS, first create a [Browser Source](https://obsproject.com/eu/kb/browser-source) (+ button in "sources" -> "Browser").
