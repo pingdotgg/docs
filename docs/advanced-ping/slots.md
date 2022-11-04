@@ -1,8 +1,6 @@
 # Slots
 
-We launched a new way for you to interact with your embeds, they're called Slots!
-
-Slots are a way for you to have permanent Browser Sources from Ping, and be able to hot swap who goes where in your broadcast. This feature is great for those who leverage nested scenes, have different guests on your broadcast, or run a show where you need to move guests around mid-broadcast.
+Slots allow you to set up your browser sources in OBS once, and be able to how swap who is in them directly from Ping. This feature is great for those who leverage nested scenes, have different guests on your broadcast, or run a show where you need to move guests around mid-broadcast.
 
 ## Setup in Ping
 
