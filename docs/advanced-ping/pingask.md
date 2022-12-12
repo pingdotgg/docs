@@ -6,7 +6,7 @@ And in true Ping fashion, its easy and quick to setup
 
 ## Setup
 
-First, we'll head on over to [ask.ping.gg](ask.ping.gg) and log in
+First, we'll head on over to [https://ask.ping.gg](https://ask.ping.gg) and log in
 
 ![PingAsk Login page](https://i.imgur.com/b3e1KEC.png)
 
