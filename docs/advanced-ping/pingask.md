@@ -1,14 +1,12 @@
 # Ping Ask
 
-Ping now offers a new service for your content, Ping Ask!
-
 Ping Ask is a way for your viewers to submit questions and for you to be able to neatly display them on stream, perfect for AMAs, QnAs, and much more!
 
-And in true Ping fashion, its easy and quick to Setup
+And in true Ping fashion, its easy and quick to setup
 
 ## Setup
 
-First, we'll head on over the ask.ping.gg and log in
+First, we'll head on over to [ask.ping.gg](ask.ping.gg) and log in
 
 ![PingAsk Login page](https://i.imgur.com/b3e1KEC.png)
 
@@ -47,6 +45,12 @@ When you over over the question, you'll see a prompt to show on stream. Click it
 ![shownonobs](https://i.imgur.com/AI5Qxgv.png)
 
 Give your answer to your audience and then click "Next Question" on your dashboard
+
+:::caution
+
+Clicking "Next Question" will remove the current question from queue and it will not be able to be brought back
+
+:::
 
 ![nextquestion](https://i.imgur.com/E5avu5z.png)
 
