@@ -101,6 +101,12 @@ In order to have control of the audio from your browser source, you _**have to e
 
 ![audio controls in browser source](./img/browser-sources/browser-source-3.png)
 
+:::caution
+
+For quick embeds, you'll need to add `&audio=on` to the end of the URL in order to enable audio.
+
+:::
+
 ## Now Go Live!
 
 That's it! If this was helpful in getting started, please [shout us out on Twitter](https://twitter.com/pingdotgg) - also don't hesitate to [join our Discord](https://discord.gg/pinglabs) if you have any questions or want to chat with us.
