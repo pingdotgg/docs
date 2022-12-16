@@ -89,6 +89,12 @@ Paste the embed URL from a guest as shown above. These URLs are static and don't
 
 ![url in browser source](./img/browser-sources/browser-source-1.png)
 
+:::tip
+
+For quick embeds, you'll need to add `&audio=on` to the end of the URL in order to enable audio.
+
+:::
+
 ### 2. Change the resolution to 1920x1080
 
 Even if your guest is using a different resolution, we recommend using 1920 width and 1080 height here to guarantee the simplest scaling and resizing at a 16:9 aspect ration
