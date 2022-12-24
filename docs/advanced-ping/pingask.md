@@ -1,10 +1,10 @@
-# Ping Ask
+# **Ping Ask**
 
 Ping Ask is a way for your viewers to submit questions and for you to be able to neatly display them on stream, perfect for AMAs, QnAs, and much more!
 
 And in true Ping fashion, its easy and quick to setup
 
-## Setup
+## **Setup**
 
 First, we'll head on over to [https://ask.ping.gg](https://ask.ping.gg) and log in
 
@@ -18,7 +18,7 @@ In OBS, we'll make a browser source. Any resolution will do fine to meet the nee
 
 ![pingaskbrowsersource](https://i.imgur.com/6olV1SA.png)
 
-## Viewer questions
+## **Viewer questions**
 
 Viewers will be able to submit questions via the ***Q&A URL***
 
@@ -54,7 +54,13 @@ Clicking "Next Question" will remove the current question from queue and it will
 
 ![nextquestion](https://i.imgur.com/E5avu5z.png)
 
-## Tips
+## **Chatbot Integration**
+
+To check out how to use Ping Ask with a chatbot, check out our [Doc](https://docs.ping.gg/advanced-ping/pingaskchatbots) on that!
+
+Its a great way to allow viewers and chatters on mobile to submit questions without bouncing in and out of the stream app!
+
+## **Tips**
 
 You can hide questions that you've already begun showing with the "Hide" button at the bottom of the dashboard
 
@@ -62,7 +68,7 @@ You can remove questions in your question queue by clicking "Remove" on the ques
 
 You can sort from Newest to Oldest and vice versa with the sort button at the top of the question queue
 
-## Video
+## **Video**
 
 If you'd like a video tutorial, I reccomend checking out this one by our very own Ping Chan!
 
