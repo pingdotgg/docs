@@ -1,4 +1,4 @@
-# Ping Ask & Chatbots
+# Chatbot Integrations
 
 Ping Ask features support for using the StreamElements Chat Bot, Nightbot and Fossabot!
 

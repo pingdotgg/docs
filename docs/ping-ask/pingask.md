@@ -1,4 +1,4 @@
-# Ping Ask
+# General Setup
 
 Ping Ask is a way for your viewers to submit questions and for you to be able to neatly display them on stream, perfect for AMAs, QnAs, and much more!
 
