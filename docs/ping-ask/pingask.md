@@ -56,7 +56,7 @@ Clicking "Next Question" will remove the current question from queue and it will
 
 ## Chatbot Integration
 
-To check out how to use Ping Ask with a chatbot, check out our [Doc](https://docs.ping.gg/advanced-ping/pingaskchatbots) on that!
+To check out how to use Ping Ask with a chatbot, check out our [Doc](https://docs.ping.gg/ping-ask/pingaskchatbots) on that!
 
 Its a great way to allow viewers and chatters on mobile to submit questions without bouncing in and out of the stream app!
 
@@ -72,5 +72,5 @@ You can sort from Newest to Oldest and vice versa with the sort button at the to
 
 If you'd like a video tutorial, I reccomend checking out this one by our very own Ping Chan!
 
-[![pingchanpingask](https://i9.ytimg.com/vi/HLxbUz4Lzj4/mq2.jpg?sqp=CJTazZwG&rs=AOn4CLC2UF3KnK-LseEOkE0uoX_HANKLSw)](https://youtu.be/HLxbUz4Lzj4)
+<div style={{ width: "100%", display: "flex", justifyContent: "center" }}><iframe width="560" height="315" src="https://www.youtube.com/embed/HLxbUz4Lzj4" title="How To Use Ping Ask!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe></div>
 
