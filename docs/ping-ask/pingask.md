@@ -1,4 +1,4 @@
-# Ping Ask
+# General Setup
 
 Ping Ask is a way for your viewers to submit questions and for you to be able to neatly display them on stream, perfect for AMAs, QnAs, and much more!
 
@@ -53,6 +53,12 @@ Clicking "Next Question" will remove the current question from queue and it will
 :::
 
 ![nextquestion](https://i.imgur.com/E5avu5z.png)
+
+## Chatbot Integration
+
+To check out how to use Ping Ask with a chatbot, check out our [Doc](https://docs.ping.gg/advanced-ping/pingaskchatbots) on that!
+
+Its a great way to allow viewers and chatters on mobile to submit questions without bouncing in and out of the stream app!
 
 ## Tips
 
