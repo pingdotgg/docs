@@ -4,7 +4,7 @@ After using OBS for some time, you may find that you end up with 2, 3, or ***40*
 
 But when your internet hiccups, and all of your browser sources decide that they need a refresh, it can be ***cumbersome*** to go through each and every one. 
 
-With this handy LUA script, you can bind *Refresh All Broswers* with the tap of a single button
+With [this handy lua script](https://raw.githubusercontent.com/exeldro/obs-lua/master/refresh-browsers.lua), you can bind *Refresh All Broswers* with the tap of a single button
 
 ![GIF of using hotkey](https://i.imgur.com/nzGOeHn.gif)
 
